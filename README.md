@@ -10,7 +10,7 @@
 ### ❔❓Can I help you
 I'm so sorry,I can't help you anything
 ## Something I can tell you
-虽然有些事情我不能告诉你，但你仍应该保持激动的心情
+虽然有些事情我不能告诉你，但我们可以一起玩<a href="https://www.minecraft.net">Minecraft</a>
 <!--
 **FIve201/FIve201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
