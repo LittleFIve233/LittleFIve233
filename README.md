@@ -1,6 +1,6 @@
 ## 嗯？你是来看一个卑微贫民的资料么QAQ
 ### ❤Follow me
-<a href="https://space.bilibili.com/357635616"><img src="https://img.shields.io/badge/bilibili-darkpink.svg" alt="npm"></a>
+<a href="https://space.bilibili.com/357635616"><img src="https://img.shields.io/badge/bilibili-dark-pink.svg" alt="npm"></a>
 ### 🤔What can I do？
 嘛，既然你诚心诚意的问了，那我（被打）
 <p align="center">
