@@ -3,9 +3,9 @@
 <a href="https://github.com/FIve201"><img src="https://img.shields.io/badge/GitHub-black.svg" alt="npm"></a>
 <a href="https://space.bilibili.com/357635616"><img src="https://img.shields.io/badge/bilibili-pink.svg" alt="npm"></a>
 ### 🤔What can I do？
-嘛，既然你诚心诚意的问了，那我（被打）
-<a href="https://img.shields.io/badge"><img src="https://img.shields.io/badge/HTML-orange.svg" alt="npm"></a><img src="https://img.shields.io/badge/html-orange.svg" alt="npm"></a>
-<a href="https://img.shields.io/badge"><img src="https://img.shields.io/badge/CSS-blue.svg" alt="npm"></a><img src="https://img.shields.io/badge/html-orange.svg" alt="npm"></a>
+嘛，既然你诚心诚意的问了，那我（被打）<br />
+<a href="https://img.shields.io/badge"><img src="https://img.shields.io/badge/HTML-orange.svg" alt="npm"></a><br />
+<a href="https://img.shields.io/badge"><img src="https://img.shields.io/badge/CSS-blue.svg" alt="npm"></a><br />
 没错，卑微的人下人只会这些（
 <!--
 **FIve201/FIve201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
