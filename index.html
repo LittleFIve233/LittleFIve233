@@ -6,17 +6,37 @@
     <link rel="icon" href="https://github.com/fluidicon.png" type "image=" " -icon"="" />
     <link rel="shortcut icon" href="https://github.com/fluidicon.png" type "image=" " -icon"="" />
     <title>bing美图 - FIve201</title>
+    <script>
+        fetch('https://v1.hitokoto.cn/?c=b')
+          .then(response => response.json())
+          .then(data => {
+            const hitokoto = document.getElementById('bing')
+            hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+            hitokoto.innerText = data.hitokoto
+          })
+          .catch(console.error)
+      </script>
+      <style>
+            a:link
+            {
+                text-decoration:none;
+            }
+            a:visited
+            {
+                text-decoration:none;
+            }
+      </style>
 </head>
 <body>
+    <!--这是一个无意义的网站，因为它是被拿来练手的-->
     <div style="text-align: center;">
     <h1>FIve201</h1>
     </div>
     <hr />
     <div style="text-align:center">
-        <h4>bing美图</h4>
+        <h4><font id="bing" color=" red">bing美图</font></h4>
     </div>
     <div style="text-align: center;">
-    <br />
     <img src="https://api.dujin.org/bing/1920.php" width="800" height="400">
     <br />
     <br />
