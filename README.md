@@ -9,9 +9,9 @@
 <a href="https://www.w3school.com.cn/css/index.asp"><img src="https://img.shields.io/badge/CSS-blue.svg" alt="css"></a><br />
 Yes, I just do them, because it's my part-time
 ### ❔❓Can I help you anything？
-I'm so sorry,I can't help you anything
+I'm so sorry that I can't help you anything
 ### 😢I'm afraid I can't tell you any more...
-虽然有些事情我不能告诉你，但我们可以一起玩<a href="https://www.minecraft.net">Minecraft</a>
+I can't tell you more，but we can play<a href="https://www.minecraft.net">Minecraft</a> together
 <!--
 **FIve201/FIve201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
