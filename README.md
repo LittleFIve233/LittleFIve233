@@ -1,4 +1,5 @@
-## 嗯？你是来看一个卑微贫民的资料么QAQ
+## 嗯？你是来看一个人下人的资料的么😣
+### 我叫小五，来自中国，热爱生活中的点点滴滴~
 ### ❤Follow me
 <a href="https://github.com/LittleFIve233"><img src="https://img.shields.io/badge/GitHub-black.svg" alt="github"></a>
 <a href="https://space.bilibili.com/357635616"><img src="https://img.shields.io/badge/bilibili-pink.svg" alt="bilibili"></a>
@@ -8,7 +9,7 @@
 没错，卑微的人下人只会这些（
 ### ❔❓Can I help you anything？
 I'm so sorry,I can't help you anything
-### 😢I can tell you anything...
+### 😢I'm afraid I can't tell you any more...
 虽然有些事情我不能告诉你，但我们可以一起玩<a href="https://www.minecraft.net">Minecraft</a>
 <!--
 **FIve201/FIve201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
