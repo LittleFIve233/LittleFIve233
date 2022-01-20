@@ -11,7 +11,7 @@ Yes, I just do them, because it's my part-time
 ### ❔❓Can I help you anything？
 I'm so sorry that I can't help you anything
 ### 😢I'm afraid I can't tell you any more...
-I can't tell you more，but we can play<a href="https://www.minecraft.net">Minecraft</a> together
+I can't tell you more，but we can play <a href="https://www.minecraft.net">Minecraft</a> together
 <!--
 **FIve201/FIve201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
