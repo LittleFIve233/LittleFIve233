@@ -1,6 +1,6 @@
 ## 你好~
 ### 👋Who are you？
-我叫小五，是来自中国的一个高中生~
+我叫小五，我是学生！倒贴200！
 ### ❤Follow me
 <a href="https://github.com/LittleFIve233"><img src="https://img.shields.io/badge/GitHub-black.svg" alt="github"></a>
 <a href="https://space.bilibili.com/357635616"><img src="https://img.shields.io/badge/bilibili-pink.svg" alt="bilibili"></a>
